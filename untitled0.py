@@ -1,4 +1,4 @@
 def func(a, b):
-    return "a+b"
+    return "good bye"
 def func2(a, b):
-    return "a*b"
+    return "hello"
